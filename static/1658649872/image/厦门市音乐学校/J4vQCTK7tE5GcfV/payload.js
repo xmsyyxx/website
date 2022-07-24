@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/image/%E5%8E%A6%E9%97%A8%E5%B8%82%E9%9F%B3%E4%B9%90%E5%AD%A6%E6%A0%A1/J4vQCTK7tE5GcfV", {data:[{path:"\u002F厦门市音乐学校\u002FJ4vQCTK7tE5GcfV",item:"厦门市音乐学校"}],fetch:{},mutations:void 0});

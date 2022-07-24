@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"https:\u002F\u002Fwikioss.xhemj.work\u002Fpublic\u002Fstatic\u002F1658649872",layout:"WikiContents",error:null,serverRendered:true,routePath:"\u002Fwiki\u002FQQ",config:{_app:{basePath:a,assetsPath:a,cdnURL:"https:\u002F\u002Fwikioss.xhemj.work\u002Fpublic\u002F"},content:{dbHash:"36a9328b"}}}}("\u002F"));
